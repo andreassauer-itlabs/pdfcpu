@@ -1,4 +1,4 @@
-module github.com/pdfcpu/pdfcpu
+module github.com/andreassauer-itlabs/pdfcpu
 
 go 1.22
 
