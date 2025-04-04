@@ -19,8 +19,8 @@ package api
 import (
 	"io"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/model"
 	"github.com/pkg/errors"
 )
 
