@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

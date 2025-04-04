@@ -20,11 +20,11 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/draw"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/matrix"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/color"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/draw"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/matrix"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/model"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

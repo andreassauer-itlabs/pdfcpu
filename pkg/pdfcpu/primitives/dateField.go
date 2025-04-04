@@ -21,11 +21,11 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/pdfcpu/pdfcpu/pkg/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/format"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/font"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/color"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/format"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/model"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

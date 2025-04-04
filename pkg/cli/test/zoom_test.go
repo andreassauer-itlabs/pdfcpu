@@ -20,9 +20,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/cli"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/types"
 )
 
 func TestZoomInByFactor(t *testing.T) {

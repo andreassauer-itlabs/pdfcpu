@@ -20,9 +20,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/api"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/types"
 )
 
 func TestInsertRemovePages(t *testing.T) {

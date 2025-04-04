@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/api"
 )
 
 func TestTrim(t *testing.T) {

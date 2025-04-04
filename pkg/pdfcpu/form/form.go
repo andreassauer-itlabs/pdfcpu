@@ -23,12 +23,12 @@ import (
 	"strings"
 
 	"github.com/mattn/go-runewidth"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/draw"
-	pdffont "github.com/pdfcpu/pdfcpu/pkg/pdfcpu/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/primitives"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/log"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/draw"
+	pdffont "github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/font"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/model"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/primitives"
+	"github.com/andreassauer-itlabs/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 
